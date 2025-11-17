@@ -1,0 +1,41 @@
+[2023-11-27 11:59:24] [ INFO ] [DentistDaoH2:35] Se inició una operación de guardado de odontólogo
+[2023-11-27 11:59:24] [ INFO ] [DentistDaoH2:50] Este es el odontólogo que se guardó: model.Dentist@5ed828d
+[2023-11-27 11:59:24] [ INFO ] [DentistDaoH2:35] Se inició una operación de guardado de odontólogo
+[2023-11-27 11:59:25] [ INFO ] [DentistDaoH2:50] Este es el odontólogo que se guardó: model.Dentist@1e7c7811
+[2023-11-27 11:59:25] [ INFO ] [DentistDaoH2:35] Se inició una operación de guardado de odontólogo
+[2023-11-27 11:59:25] [ INFO ] [DentistDaoH2:50] Este es el odontólogo que se guardó: model.Dentist@1b26f7b2
+[2023-11-27 11:59:25] [ INFO ] [DentistDaoH2:71] Iniciando la búsqueda de un odontólogo
+[2023-11-27 11:59:25] [ INFO ] [DentistDaoH2:83] Consultamos el odontólogo con id: 2 es: model.Dentist@43738a82
+[2023-11-27 11:59:25] [ INFO ] [DentistDaoH2:104] Iniciando la actualización de un odontólogo
+[2023-11-27 11:59:25] [ WARN ] [DentistDaoH2:141] Cuidado se eliminó el odontólogo con id: 2
+[2023-11-27 11:59:25] [ INFO ] [DentistDaoH2:158] Iniciando la búsqueda de todos los odontólogos
+[2023-11-27 11:59:25] [ INFO ] [DentistDaoH2:176] Encontramos los odontólogos con id: 1 ,matrícula: 132 ,nombre: Andrea ,apellido: Godoy
+[2023-11-27 11:59:25] [ INFO ] [DentistDaoH2:176] Encontramos los odontólogos con id: 3 ,matrícula: 789 ,nombre: Carlos ,apellido: Suarez
+[2023-11-27 12:03:55] [ INFO ] [DentistDaoH2:35] Se inició una operación de guardado de odontólogo
+[2023-11-27 12:03:55] [ INFO ] [DentistDaoH2:50] Este es el odontólogo que se guardó: Vanina
+[2023-11-27 12:03:55] [ INFO ] [DentistDaoH2:35] Se inició una operación de guardado de odontólogo
+[2023-11-27 12:03:56] [ INFO ] [DentistDaoH2:50] Este es el odontólogo que se guardó: Juan
+[2023-11-27 12:03:56] [ INFO ] [DentistDaoH2:35] Se inició una operación de guardado de odontólogo
+[2023-11-27 12:03:56] [ INFO ] [DentistDaoH2:50] Este es el odontólogo que se guardó: Carlos
+[2023-11-27 12:03:56] [ INFO ] [DentistDaoH2:71] Iniciando la búsqueda de un odontólogo
+[2023-11-27 12:03:56] [ INFO ] [DentistDaoH2:83] Consultamos el odontólogo con id: 2 es:  con nombre: Juan, con apellido: Perez
+[2023-11-27 12:03:56] [ INFO ] [DentistDaoH2:104] Iniciando la actualización de un odontólogo
+[2023-11-27 12:03:56] [ INFO ] [DentistDaoH2:117] El atributo actualizado: Andrea
+[2023-11-27 12:03:56] [ WARN ] [DentistDaoH2:143] Cuidado se eliminó el odontólogo con id: 2
+[2023-11-27 12:03:56] [ INFO ] [DentistDaoH2:160] Iniciando la búsqueda de todos los odontólogos
+[2023-11-27 12:03:56] [ INFO ] [DentistDaoH2:178] Encontramos los odontólogos con id: 1 ,matrícula: 132 ,nombre: Andrea ,apellido: Godoy
+[2023-11-27 12:03:56] [ INFO ] [DentistDaoH2:178] Encontramos los odontólogos con id: 3 ,matrícula: 789 ,nombre: Carlos ,apellido: Suarez
+[2023-11-27 13:16:58] [ INFO ] [DentistDaoH2:35] Se inició una operación de guardado de odontólogo
+[2023-11-27 13:16:58] [ INFO ] [DentistDaoH2:50] Este es el odontólogo que se guardó: Carolina
+[2023-11-27 13:18:12] [ INFO ] [DentistDaoH2:71] Iniciando la búsqueda de un odontólogo
+[2023-11-27 13:18:12] [ INFO ] [DentistDaoH2:83] Consultamos el odontólogo con id: 1 es:  con nombre: Carolina, con apellido: Garro
+[2023-11-27 13:19:31] [ INFO ] [DentistDaoH2:71] Iniciando la búsqueda de un odontólogo
+[2023-11-27 13:19:51] [ INFO ] [DentistDaoH2:71] Iniciando la búsqueda de un odontólogo
+[2023-11-27 13:19:51] [ INFO ] [DentistDaoH2:83] Consultamos el odontólogo con id: 1 es:  con nombre: Carolina, con apellido: Garro
+[2023-11-27 13:28:28] [ INFO ] [DentistDaoH2:104] Iniciando la actualización de un odontólogo
+[2023-11-27 13:28:28] [ INFO ] [DentistDaoH2:117] El atributo actualizado: Juan Andres
+[2023-11-27 13:30:04] [ INFO ] [DentistDaoH2:71] Iniciando la búsqueda de un odontólogo
+[2023-11-27 13:31:30] [ INFO ] [DentistDaoH2:160] Iniciando la búsqueda de todos los odontólogos
+[2023-11-27 13:31:30] [ INFO ] [DentistDaoH2:178] Encontramos los odontólogos con id: 1 ,matrícula: 12345 ,nombre: Juan Andres ,apellido: Perez
+[2023-11-27 13:32:15] [ INFO ] [DentistDaoH2:160] Iniciando la búsqueda de todos los odontólogos
+[2023-11-27 13:32:16] [ INFO ] [DentistDaoH2:178] Encontramos los odontólogos con id: 1 ,matrícula: 12345 ,nombre: Juan Andres ,apellido: Perez
